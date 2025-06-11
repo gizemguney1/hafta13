@@ -1,0 +1,5 @@
+- urllib kütüphanesi ile web isteği gönderme işlemi yapıldı.
+- User-Agent bilgisi Firefox olarak taklit edildi.
+- www.python.org sitesine istek atılarak sunucu yanıtları alındı.
+- Gelen HTTP header bilgileri ekrana yazdırıldı.
+
